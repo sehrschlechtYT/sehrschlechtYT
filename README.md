@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm sehrschlecht</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sehrschlechtyt&label=Profile%20views&color=0e75b6&style=flat" alt="sehrschlechtyt" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sehrschlechtyt" target="blank"><img src="https://img.shields.io/twitter/follow/sehrschlechtyt?logo=twitter&style=for-the-badge" alt="sehrschlechtyt" /></a> </p>
 
 <!-- - 🌱 I’m currently learning **Flutter** -->
 
